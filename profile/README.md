@@ -1,5 +1,7 @@
-![kpmg logo](/images/kpmg.png)
-
+<p align="center">
+  <img src="/images/kpmg.png">
+</p>
+  
 ### 📝 KPMG Engineering
 
 Learn about what KPMG are up to in the Engineering space on [Medium](https://medium.com/kpmg-uk-engineering)! 
