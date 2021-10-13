@@ -1,5 +1,5 @@
 <p align="center">
-  ![kpmg logo](/images/kpmg.png)
+  <img src="/images/kpmg.png">
 </p>
   
 ### 📝 KPMG Engineering
