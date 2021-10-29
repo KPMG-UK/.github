@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/kpmg.png">
+  <img src="/images/kpmg.png" style="width:300px;">
 </p>
   
 ### 📝 KPMG Engineering
